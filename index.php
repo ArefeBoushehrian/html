@@ -12,7 +12,7 @@
 
 	<div id="topnav" style="direction: rtl;">
 	<span><a  href="https://drive.google.com/file/d/1kcgvxV2YIYRPIclSuinIfCmCyXQiTkZl/view?usp=sharing">معرفي</a></span>
-	<span><a href="file:///C:/wamp64/www/vc-html-2.html">مهارت و توانمندي</a></span>
+	<span><a href="https://drive.google.com/file/d/1vbHN3ZyC2bDZoPRpYTH3PFUt2_1MK_EL/view?usp=sharing">مهارت و توانمندي</a></span>
 	<span><a href="file:///C:/wamp64/www/vc-html-3.html">افتخارات و دستاوردها</a></span>
 	<span><a href="file:///C:/wamp64/www/vc-html-4.html">تماس با من</a></span>
 	</div>
